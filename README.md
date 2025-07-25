@@ -1,3 +1,5 @@
+![](https://api.visitorbadge.io/api/VisitorHit?user=Vitgracer&repo=AdCensus-Breath-Detection&countColor=%237B1E7A)
+
 # 🌬️ Breath Detection with Stereo Vision (and a bit of OpenCL magic)
 
 Ever wanted to watch someone breathe using two cameras and a GPU?  
